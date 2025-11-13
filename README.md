@@ -4,7 +4,8 @@
 - 🔎 I’m interested in **Test Automation**
 - 🌱Improving my knowledge **Phyton and Certifications**
 - 📫 How to reach me:
- &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/blando-alexandre/)       &nbsp;&nbsp;   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:blandoalexandress@hotmail.com)
+
+ &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/blando-alexandre/)       &nbsp;&nbsp;   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:blandoalexandress@hotmail.com)
 
 ---
 
