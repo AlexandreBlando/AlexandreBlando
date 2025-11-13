@@ -2,33 +2,46 @@
 
 - 🧑‍💻 Hi, I'm **Blando Alexandre**
 - 🔎 I’m interested in **Test Automation**
-- 🌱 I’m currently learning **C# .NET, Java e TypeScript**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/blando-alexandre/)
+- 🌱Improving my knowledge **Phyton and Certifications**
+- 📫 How to reach me:
+ &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/blando-alexandre/)       &nbsp;&nbsp;   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:blandoalexandress@hotmail.com)
 
-### 🧰 Tech & Tools Preference
+---
+
+### 🧰 Tech & Tools
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+<table>
+  <tr>
+    <th>💻 Dev Stack</th>
+    <th>🧪 QA & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" /><br/>
+      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" /><br/>
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-Bruno-1A73E8?style=flat&logo=googlechrome&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/-Testes_Funcionais-4CAF50?style=flat&logo=checkmarx&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat" /><br/>
+      <img src="https://img.shields.io/badge/-ERP_Systems-4B275F?style=flat&logo=databricks&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Bruno](https://img.shields.io/badge/-Bruno-004E9C?style=flat&logo=brave&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Testes Funcionais](https://img.shields.io/badge/-Testes_Funcionais-4CAF50?style=flat&logo=checkmarx&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
-
-![ERP](https://img.shields.io/badge/-ERP_Systems-4B275F?style=flat&logo=databricks&logoColor=white)
 
 <!-- 
 ![Browser Library](https://img.shields.io/badge/-Browser%20Library-2E8B57?style=flat)
